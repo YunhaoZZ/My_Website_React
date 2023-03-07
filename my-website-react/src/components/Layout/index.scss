@@ -6,5 +6,20 @@
 
 .top-tags {
     bottom: auto;
-    top: 35px;
+    top: 35px; 
+}
+
+.tags {
+    color: #CADF9E;
+    opacity: 0.6;
+    position: absolute;
+    bottom: 0;
+    left: 120px;
+    font-size: 18px;
+    font-family: 'La Belle Aurore';
+    margin-left: 20px; 
+}
+
+.bottom-tag-html {
+    margin-left: -20px;
 }
