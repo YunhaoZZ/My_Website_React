@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
-import LayoutMobile from './LayoutMobile'
+import LayoutMobile from './Mobile/LayoutMobile'
 
 
 export const Mobile = () => {

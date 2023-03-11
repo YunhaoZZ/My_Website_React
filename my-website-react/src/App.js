@@ -29,7 +29,7 @@ function App() {
   const responsive = {
     isDesktop: width > 780
   }
-  console.log(responsive.isDesktop);
+  // console.log(responsive.isDesktop);
   
   if(responsive.isDesktop){
     return <Desktop />;
